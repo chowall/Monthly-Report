@@ -11,7 +11,7 @@
 
 *MachoMan
 
-![1](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/MachoMan/screenshot.png)
+![1](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/MachoMan/Screenshot.png)
 
 ## 하고싶은 말
 
