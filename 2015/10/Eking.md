@@ -7,14 +7,14 @@
  
 * [약빤 크리퍼 모델링 2](http://cafe.naver.com/minecraftpe/2354890) 
 
-![좀비 피그리퍼](http://imgur.com/XakXV5C) 
-![위더 스켈리퍼](http://imgur.com/01NtOjC) 
-![주민리퍼](http://imgur.com/p3Fpl3Z) 
-![아이언 골렘리퍼](http://imgur.com/SjFxuaY) 
+![좀비 피그리퍼](http://i.imgur.com/XakXV5C.png) 
+![위더 스켈리퍼](http://i.imgur.com/01NtOjC.png) 
+![주민리퍼](http://i.imgur.com/p3Fpl3Z.png) 
+![아이언 골렘리퍼](http://i.imgur.com/SjFxuaY.png) 
 
 * [프랑켄 슈타인]
 
-![프랑켄 슈타인](http://imgur.com/Ya07dNA)
+![프랑켄 슈타인](http://i.imgur.com/Ya07dNA.png)
 
 
  ## 하고싶은 말 
