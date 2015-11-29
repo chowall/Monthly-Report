@@ -7,20 +7,29 @@
  
 * [텔레토비 친구들!!](http://cafe.naver.com/minecraftpe/2380034) 
 
-*[뽀](http://i.imgur.com/RGTgf4v.png) 
-*[나나](http://i.imgur.com/NyrCCZX.png) 
-*[뚜비](http://i.imgur.com/q4aBrlK.png) 
-*[보라돌이](http://i.imgur.com/rGhzxPD.png)
-*[좀비 뽀](http://i.imgur.com/HPBS3iq.png) 
-*[좀비 나나](http://i.imgur.com/WfTvKOz.png) 
-*[좀비 뚜비](http://i.imgur.com/ZAHjdBY.png) 
-*[좀비 보라돌이](http://i.imgur.com/ZC0alWA.png) 
+![뽀](http://i.imgur.com/RGTgf4v.png) 
+![나나](http://i.imgur.com/NyrCCZX.png) 
+![뚜비](http://i.imgur.com/q4aBrlK.png) 
+![보라돌이](http://i.imgur.com/rGhzxPD.png)
+![좀비 뽀](http://i.imgur.com/HPBS3iq.png) 
+![좀비 나나](http://i.imgur.com/WfTvKOz.png) 
+![좀비 뚜비](http://i.imgur.com/ZAHjdBY.png) 
+![좀비 보라돌이](http://i.imgur.com/ZC0alWA.png) 
 
 * [약빤 스켈레톤 모델링 1탄!!]
 
-*[엔더레톤](http://i.imgur.com/bTSdmEz.png)
-*[크맆레톤](http://i.imgur.com/e71WTxh.png)
-*[주민레톤](http://i.imgur.com/ODqjfnW.png)
+![엔더레톤](http://i.imgur.com/bTSdmEz.png)
+```
+엔더레톤
+```
+![크맆레톤](http://i.imgur.com/e71WTxh.png)
+```
+크맆레톤
+```
+![주민레톤](http://i.imgur.com/ODqjfnW.png)
+```
+주민레톤
+```
 
 * [테크네 Show Case]
 
