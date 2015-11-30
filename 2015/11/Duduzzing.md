@@ -7,12 +7,12 @@
 
 *Coc Balloon
 
-![00](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Clash of Clan/Balloon_WIP1.png)
-![000](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Clash of Clan/Balloon_WIP2.png)
+![00](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Clash-of-Clan/Balloon_WIP1.png)
+![000](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Clash-of-Clan/Balloon_WIP2.png)
 
 *코드인사이드 / 셈틀
-![0000](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Team-AS/CodeInside1.png)
-![00000](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Team-AS/CodeInside2.png)
+![0000](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Team-AS/Semteul1.png)
+![00000](https://raw.githubusercontent.com/Duduzzing/MCPE-ModPE-Script/master/Modeling/Team-AS/Semteul2.png)
 
 ## 혼합
 
